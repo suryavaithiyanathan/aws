@@ -1,1 +1,1 @@
-
+resource = aws
